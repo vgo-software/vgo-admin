@@ -43,3 +43,12 @@ export const genderType = [
   { label: "男", value: 1 },
   { label: "女", value: 2 }
 ];
+
+/**
+ * @description：上传服务类型
+ */
+export const uploadTypes = [
+  { label: "本地", value: "local" },
+  { label: "阿里云", value: "oss" },
+  { label: "腾讯云", value: "cos" }
+];

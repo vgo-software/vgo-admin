@@ -7,7 +7,7 @@
       </div>
       <div class="login-form">
         <div class="login-logo">
-          <h2 class="logo-text">Admin</h2>
+          <h2 class="logo-text">Xxx 管理后台</h2>
         </div>
         <LoginForm />
       </div>
